@@ -289,10 +289,10 @@ var list_stems = [
 var list_art = [
 	
 	{ en: "to play a role",
-	fr: "jouer un role" },
+	fr: "jouer un rôle" },
 
 	{ en: "to present",
-	fr: "presenter" },
+	fr: "presénter" },
 
 	{ en: "to take advantage of",
 	fr: "profiter de" },
@@ -304,10 +304,10 @@ var list_art = [
 	fr: "une chanson" },
 
 	{ en: "a choir or chorus",
-	fr: "un cheour" },
+	fr: "un chœur" },
 
 	{ en: "a comedy",
-	fr: "une comedie" },
+	fr: "une comédie" },
 
 	{ en: "a composer",
 	fr: "un compositeur" },
@@ -328,25 +328,25 @@ var list_art = [
 	fr: "un membre" },
 
 	{ en: "a director (of a play or show)",
-	fr: "un metteur en scene" },
+	fr: "un metteur en scène" },
 
 	{ en: "a character",
 	fr: "un personnage" },
 
 	{ en: "a play",
-	fr: "un piece de theatre" },
+	fr: "une pièce de théâtre" },
 
 	{ en: "a director (of a movie)",
-	fr: "un realisateur" },
+	fr: "un réalisateur" },
 
 	{ en: "a show or screening",
-	fr: "une seance" },
+	fr: "une séance" },
 
 	{ en: "a company or troop",
 	fr: "une troupe" },
 
 	{ en: "the beginning",
-	fr: "le debut" },
+	fr: "le début" },
 
 	{ en: "the end",
 	fr: "la fin" },
@@ -358,10 +358,10 @@ var list_art = [
 	fr: "une sorte" },
 
 	{ en: "famous",
-	fr: "celebre" },
+	fr: "célèbre" },
 
 	{ en: "a tragedie",
-	fr: "une tragedie" },
+	fr: "une tragédie" },
 
 	{ en: "a dancer",
 	fr: "un danseur" },
@@ -397,6 +397,6 @@ var list_art = [
 	fr: "le violon" },
 
 	{ en: "an opera",
-	fr: "un opera" }
+	fr: "un opéra" }
 
 ];
